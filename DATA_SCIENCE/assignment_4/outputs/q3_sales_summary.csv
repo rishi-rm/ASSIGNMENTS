@@ -1,0 +1,16 @@
+Metric,Name,Value
+Best-Selling Product,Notebook,65
+Maximum-Revenue Product,Monitor,48000.0
+Region Revenue,North,107400.0
+Region Revenue,South,63800.0
+Region Revenue,West,106100.0
+Region Revenue,East,101400.0
+Category Sales,Electronics,207200.0
+Category Sales,Stationery,28800.0
+Category Sales,Furniture,99600.0
+Category Sales,Accessories,43100.0
+Top Order,O013,48000.0
+Top Order,O003,27500.0
+Top Order,O010,25500.0
+Top Order,O016,21600.0
+Top Order,O019,21000.0

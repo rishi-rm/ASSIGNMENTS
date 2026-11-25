@@ -1,0 +1,11 @@
+Student_ID,Name,Department,Age,Attendance,Python_Marks,AI_Marks,Network_Marks,Study_Hours
+101,Aman,CSE,20,85,78,82,75,3
+102,Simran,IT,21,92,88,90,85,5
+103,Rahul,CSE,20,76,65,70,68,2
+104,Neha,AI,22,95,92,94,90,6
+105,Arjun,IT,21,68,55,60,58,1
+106,Priya,CSE,20,88,80,85,82,4
+107,Karan,AI,22,72,70,65,72,2
+108,Anjali,IT,21,90,95,88,92,6
+109,Rohit,CSE,20,80,72,75,70,3
+110,Mehak,AI,22,97,90,96,94,7

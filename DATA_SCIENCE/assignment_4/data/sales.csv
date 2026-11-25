@@ -1,0 +1,31 @@
+Order_ID,Product,Category,Quantity,Price,Region
+O001,Wireless Mouse,Electronics,12,800,North
+O002,Notebook,Stationery,40,50,South
+O003,Office Chair,Furniture,5,5500,West
+O004,USB Cable,Electronics,25,300,East
+O005,Desk Lamp,Furniture,8,1400,North
+O006,Pen Set,Stationery,30,150,South
+O007,Keyboard,Electronics,10,1200,West
+O008,Water Bottle,Accessories,18,450,East
+O009,Backpack,Accessories,7,1800,North
+O010,Printer,Electronics,3,8500,South
+O011,Whiteboard,Furniture,6,3200,West
+O012,Stapler,Stationery,22,250,East
+O013,Monitor,Electronics,4,12000,North
+O014,File Folder,Stationery,35,80,South
+O015,Table,Electronics,2,9000,West
+O016,Headphones,Electronics,9,2400,East
+O017,Calculator,Stationery,15,650,North
+O018,Travel Mug,Accessories,20,400,South
+O019,Webcam,Electronics,6,3500,West
+O020,Shoe Rack,Furniture,4,2800,East
+O021,Notebook,Stationery,25,50,North
+O022,Wireless Mouse,Electronics,15,800,South
+O023,Office Chair,Furniture,3,5500,East
+O024,Pen Set,Stationery,20,150,West
+O025,USB Cable,Electronics,18,300,North
+O026,Backpack,Accessories,5,1800,South
+O027,Desk Lamp,Furniture,10,1400,East
+O028,Keyboard,Electronics,8,1200,North
+O029,Water Bottle,Accessories,12,450,West
+O030,Printer,Electronics,2,8500,East
